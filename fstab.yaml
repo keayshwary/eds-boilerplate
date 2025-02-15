@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/mage-eds-test/Shared%20Documents/Kumar-Eds-Test/starter-content-commerce
 
 folders:
   /products/: /products/default
